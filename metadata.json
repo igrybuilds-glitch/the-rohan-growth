@@ -1,0 +1,6 @@
+{
+  "name": "The Rohan Interiors — Digital Growth Engine | IGRYBUILDS",
+  "description": "An interactive cinematic growth system demonstration for The Rohan Interiors, Jodhpur. Created by IGRYBUILDS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
